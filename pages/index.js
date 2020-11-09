@@ -93,7 +93,7 @@ export default function Home() {
                                 lillaahi taaalaa. Allaahu akbar.
                             </li>
 
-                            <li>Artinya : Saya berniat salat fardu zuhur empat rakaat menghadap kiblat karena Allah
+                            <li>Saya berniat salat fardu zuhur empat rakaat menghadap kiblat karena Allah
                                 Ta'ala/Ma'mum karena Allah Ta'ala/Imam karena Allah Ta'ala".
                             </li>
                         </ol>
@@ -206,18 +206,23 @@ export default function Home() {
                                 <h4>Kedua</h4>
 
                                 <p>
-                                    Allahumma baaid bainii wabaina khathaayaaya kamaa baaadta bainal masyriqi wa maghribi, allahumma
+                                    Allahumma baaid bainii wabaina khathaayaaya kamaa baaadta bainal masyriqi wa
+                                    maghribi, allahumma
                                     naqinii
-                                    min khathaayaaya kamaa yunaqats tsaubul abyadhu minad danas. Allahummaghsilnii min khathaayaaya
+                                    min khathaayaaya kamaa yunaqats tsaubul abyadhu minad danas. Allahummaghsilnii min
+                                    khathaayaaya
                                     bil
                                     maai
                                     wats tsalji.
                                 </p>
                                 <p>
-                                    Ya Allah, Jauhkan antara aku dan kesalahan kesalahanku, sebagaimana engkau menjauhkan
+                                    Ya Allah, Jauhkan antara aku dan kesalahan kesalahanku, sebagaimana engkau
+                                    menjauhkan
                                     antara
-                                    timur dan barat. Ya Allah, bersihkan lah aku dan kesalahan kesalahanku, sebagaimana baju putih
-                                    dibersihkan dari kotoran. Ya Allah, cuci lah aku dari kesalahan kesalahanku dengan salju, air
+                                    timur dan barat. Ya Allah, bersihkan lah aku dan kesalahan kesalahanku, sebagaimana
+                                    baju putih
+                                    dibersihkan dari kotoran. Ya Allah, cuci lah aku dari kesalahan kesalahanku dengan
+                                    salju, air
                                     dan
                                     air
                                     es.
@@ -225,51 +230,57 @@ export default function Home() {
                             </li>
                         </ol>
                     </div>
+                </div>
 
-                    <div className="space-y-2">
-                        <h3 className="text-black text-xl leading-tight">Membaca Surat Al-Fatihah</h3>
+                <div className="space-y-2">
+                    <h3 className="text-black text-xl leading-tight">Membaca Surat Al-Fatihah</h3>
 
-                        <p>
-                            Bismillahir rahmaa nirrahiim. Alhamdu lilla hi rabbil 'alamin. Ar rahmaanirrahiim. Maaliki
-                            yaumiddiin.
-                            Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shirraatal musthaqiim. Shiraathal ladziina an'amta
-                            'alaihim ghairil maghduubi 'alaihim waladh-dhaalliin.
-                        </p>
+                    <p>
+                        Bismillahir rahmaa nirrahiim. Alhamdu lilla hi rabbil 'alamin. Ar rahmaanirrahiim. Maaliki
+                        yaumiddiin.
+                        Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shirraatal musthaqiim. Shiraathal ladziina
+                        an'amta
+                        'alaihim ghairil maghduubi 'alaihim waladh-dhaalliin.
+                    </p>
 
-                        <p>
-                            Dengan nama Allah yang maha pengasih, maha penyayang. Segala puji bagi Allah, tuhan
-                            seluruh
-                            alam, yang maha pengasih, maha penyayang, pemilik hari pembalasan. Hanya kepada engkau lah kami
-                            menyembah dan hanya kepada engkau lah kami mohon pertolongan. Tunjukilah kami jalan yang lurus
-                            (yaitu)
-                            jalan orang-orang yang telah engkau beri nikmat kepadanya, bukan (jalan) mereka yang dimurkai, dan
-                            bukan
-                            (pula jalan) mereka yang sesat.
-                        </p>
-                    </div>
+                    <p>
+                        Dengan nama Allah yang maha pengasih, maha penyayang. Segala puji bagi Allah, tuhan
+                        seluruh
+                        alam, yang maha pengasih, maha penyayang, pemilik hari pembalasan. Hanya kepada engkau lah kami
+                        menyembah dan hanya kepada engkau lah kami mohon pertolongan. Tunjukilah kami jalan yang lurus
+                        (yaitu)
+                        jalan orang-orang yang telah engkau beri nikmat kepadanya, bukan (jalan) mereka yang dimurkai,
+                        dan
+                        bukan
+                        (pula jalan) mereka yang sesat.
+                    </p>
+                </div>
 
+                <div className="space-y-2">
+                    <h3 className="text-black text-xl leading-tight">Membaca Surat Pendek yang dihafal</h3>
 
+                    <p>
+                        Misalnya surat Annas, Al Falaq dan Al Ikhlas.
+                    </p>
+                </div>
+
+                <div className="space-y-2">
+                    <h3 className="text-black text-xl leading-tight">Ruku </h3>
+
+                    <p>
+                        dengan tumaninah (Allahu akbar)
+                    </p>
+                    <p>
+                        Subhaana rabbiyal adziimi wa bihamdih. (3 X)
+                    </p>
+                    <p>
+                        Mahasuci Allah Yang Maha Agung dan Memujilah Aku kepada-Nya"
+                    </p>
                 </div>
 
 
-                <h3>Membaca Surat Pendek yang dihafal</h3>
 
 
-                <p>
-                    Misalnya surat Annas, Al Falaq dan Al Ikhlas.
-                </p>
-                <h3>Ruku </h3>
-
-
-                <p>
-                    dengan tumaninah (Allahu akbar)
-                </p>
-                <p>
-                    Subhaana rabbiyal adziimi wa bihamdih. (3 X)
-                </p>
-                <p>
-                    Artinya : Mahasuci Allah Yang Maha Agung dan Memujilah Aku kepada-Nya"
-                </p>
                 <h3>Itidal</h3>
 
 
@@ -277,14 +288,14 @@ export default function Home() {
                     Itidal dengan tumaninah, berdiri seraya mengucapkan : Samiallahu liman hamidah.
                 </p>
                 <p>
-                    Artinya : "Allah Mendengar orang-orang yang memuji-Nya." Kemudian berdisi membaca doa sebagai
+                    "Allah Mendengar orang-orang yang memuji-Nya." Kemudian berdisi membaca doa sebagai
                     berikut,
                 </p>
                 <p>
                     "Rabbana lakal hamdu milus samawati wa mil ulardi wa mil umasyita min syaiin badu.
                 </p>
                 <p>
-                    Artinya : Wahai Tuhan kami hanya untuk-Mu lah segala puji sepenuh lagit dan Bumi dan sepenuh barang
+                    Wahai Tuhan kami hanya untuk-Mu lah segala puji sepenuh lagit dan Bumi dan sepenuh barang
                     yang
                     Engkau kehendaki sesudahnya.
                 </p>
@@ -298,7 +309,7 @@ export default function Home() {
                     Subhana rabbiyal ala wa bihamdih (3 X)
                 </p>
                 <p>
-                    Artinya : Maha Suci Rabb-ku Yang Maha Luhur dan dengan Puji-Nya
+                    Maha Suci Rabb-ku Yang Maha Luhur dan dengan Puji-Nya
                 </p>
                 <h3>Duduk </h3>
 
@@ -310,7 +321,7 @@ export default function Home() {
                     Robighfirlii, warhamnii, wajburnii, warfanii, warzuqnii, wahdinii, waaafinii, wafu annii
                 </p>
                 <p>
-                    Artinya : Ya Allah, Ampunilah aku, Belas kasihanilah aku, Cukupkanlah segala kekuranganku, Angkatlah
+                    Ya Allah, Ampunilah aku, Belas kasihanilah aku, Cukupkanlah segala kekuranganku, Angkatlah
                     derajatku, Berilah rezeki kepadaku, Berilah petunjuk kepadaku, Berilah kesehatan kepadaku, dan
                     berilah
                     ampunan kepadaku.
