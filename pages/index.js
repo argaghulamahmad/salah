@@ -278,146 +278,145 @@ export default function Home() {
                     </p>
                 </div>
 
+                <div className="space-y-2">
+                    <h3 className="text-black text-xl leading-tight">Itidal</h3>
+
+                    <p>
+                        Itidal dengan tumaninah, berdiri seraya mengucapkan : Samiallahu liman hamidah.
+                    </p>
+                    <p>
+                        "Allah Mendengar orang-orang yang memuji-Nya." Kemudian berdisi membaca doa sebagai
+                        berikut,
+                    </p>
+                    <p>
+                        "Rabbana lakal hamdu milus samawati wa mil ulardi wa mil umasyita min syaiin badu.
+                    </p>
+                    <p>
+                        Wahai Tuhan kami hanya untuk-Mu lah segala puji sepenuh lagit dan Bumi dan sepenuh barang
+                        yang
+                        Engkau kehendaki sesudahnya.
+                    </p>
+                </div>
+
+                <div className="space-y-2">
+                    <h3 className="text-black text-xl leading-tight">Sujud </h3>
+
+                    <p>
+                        dengan tumaninah (Allahu akbar)
+                    </p>
+                    <p>
+                        Subhana rabbiyal ala wa bihamdih (3 X)
+                    </p>
+                    <p>
+                        Maha Suci Rabb-ku Yang Maha Luhur dan dengan Puji-Nya
+                    </p>
+                </div>
+
+                <div className="space-y-2">
+                    <h3 className="text-black text-xl leading-tight">Duduk di antara dua sujud</h3>
+
+                    <p>
+                        dengan tumaninah (Allahu akbar)
+                    </p>
+                    <p>
+                        Robighfirlii, warhamnii, wajburnii, warfanii, warzuqnii, wahdinii, waaafinii, wafu annii
+                    </p>
+                    <p>
+                        Ya Allah, Ampunilah aku, Belas kasihanilah aku, Cukupkanlah segala kekuranganku, Angkatlah
+                        derajatku, Berilah rezeki kepadaku, Berilah petunjuk kepadaku, Berilah kesehatan kepadaku, dan
+                        berilah
+                        ampunan kepadaku.
+                    </p>
+                </div>
+
+                <div className="space-y-2">
+                    <h3 className="text-black text-xl leading-tight">Sujud kedua</h3>
+
+                    <p>Berdiri lagi untuk menunaikan rakaat kedua dan selanjutnya</p>
+                </div>
+
+                <div className="space-y-2">
+                    <h3 className="text-black text-xl leading-tight">Tahiyat Pertama</h3>
+
+                    <p>
+                        Attahiyyatul mubarakaatus salawatut tayyibatu lillah. Assalamu alaika ayyuhan nabiyyu
+                        warahmatullahi
+                        wabarakatuh. Assalamu alaina wa ala ibadillahis salihin. Asyhadu alla ilaha illallah. Wa asyhadu
+                        anna
+                        muhammadar rasulullah. Allahumma salli ala sayyidina muhammad"
+                    </p>
+                    <p>
+                        Segala kehortmatan, keberkahan, rahmat dan kebaikan adalah milik Allah. semoga keselamatan,
+                        rahmat
+                        dan
+                        berkah-Nya tetap tercurahkan atas-Mu, wahai Nabi. Semoga keselamatan (tetap terlimpahkan) atas
+                        kami
+                        dan
+                        hamba-hamba Allah yang saleh. Aku bersaksi bahwa tidak ada Tuhan selain Allah, dan aku bersaksi
+                        bahwa
+                        Muhammad adalah utusan Allah. Limpahkan rahmat kepada penghulu kami Nabi Muhammad.
+                    </p>
+                    <p>
+                        Kecuali pada salat Shubuh, pada tahap ini berarti membaca bacaan tahiyat akhir.
+                    </p>
+                </div>
+
+                <div className="space-y-2">
+                    <h3 className="text-black text-xl leading-tight">Rakaat selanjutnya</h3>
+
+                    <p>Berdiri (Allahu akbar) untuk melaksanakan rakaat ketiga.</p>
+                    <p>Lanjutkan langkah yang sama hingga rakaat keempat</p>
+                </div>
 
 
+                <div className="space-y-2">
+                    <h3 className="text-black text-xl leading-tight">Tasyahud Akhir</h3>
 
-                <h3>Itidal</h3>
+                    <p>
+                        Posisi duduk yang disebut dengan duduk tawaruk, pantat langsung menempel di lantai atau tanah
+                        dan
+                        kaki
+                        kiri dimasukkan ke bawah kaki kanan. Jari-jari kaki kanan menghadap kiblat tetap menekan ke
+                        tanah.
+                        Badan
+                        sedikit condong ke kiri, kepala miring ke pundak kanan.
+                    </p>
 
+                    <p>
+                        Bacaannya, sama dengan tasyahud awal kemudian ditambah dengan sholawat Nabi, yakni
+                    </p>
 
-                <p>
-                    Itidal dengan tumaninah, berdiri seraya mengucapkan : Samiallahu liman hamidah.
-                </p>
-                <p>
-                    "Allah Mendengar orang-orang yang memuji-Nya." Kemudian berdisi membaca doa sebagai
-                    berikut,
-                </p>
-                <p>
-                    "Rabbana lakal hamdu milus samawati wa mil ulardi wa mil umasyita min syaiin badu.
-                </p>
-                <p>
-                    Wahai Tuhan kami hanya untuk-Mu lah segala puji sepenuh lagit dan Bumi dan sepenuh barang
-                    yang
-                    Engkau kehendaki sesudahnya.
-                </p>
-                <h3>Sujud </h3>
+                    <p>
+                        Kama sallaita ala sayyidina ibrahim wa ala ali sayyidina ibrahim. Wa barik ala sayyidina
+                        Muhammad wa
+                        ala
+                        ali sayyidina Muhammad Kama barakta ala sayyidina ibrahim wa ala ali sayyidina ibrahim Fil
+                        alamina
+                        innaka hamidum majid
+                    </p>
 
+                    <p>
+                        Sebagaimana telah Engkau limpahkan rahmat kepada penghulu kami Nabi Ibrahim dan Keluarganya dan
+                        limpahkanlah berilah kepada penghulu kami Nabi Muhammad dan keluarganya sebagaimana Engkau
+                        limpahkan
+                        berkah kepada penghulu kami Nabi Ibrahim dan keluarganya. sesungguhnya di alam semesta ini
+                        Engkau
+                        maha
+                        terpuji lagi maha mulia, wahai Zat yang menggerakkan hati tetapkanlah hatiku pada agama-Mu.
+                    </p>
+                </div>
 
-                <p>
-                    dengan tumaninah (Allahu akbar)
-                </p>
-                <p>
-                    Subhana rabbiyal ala wa bihamdih (3 X)
-                </p>
-                <p>
-                    Maha Suci Rabb-ku Yang Maha Luhur dan dengan Puji-Nya
-                </p>
-                <h3>Duduk </h3>
+                <div className="space-y-2">
+                    <h3 className="text-black text-xl leading-tight">Salam</h3>
 
+                    <p>
+                        Menengok ke kanan, salam lalu menengok ke kiri mengucap salam lagi.
+                    </p>
+                    <p>
+                        Assalamu'allaikum warahmatullahi wabarakatuh
+                    </p>
+                </div>
 
-                <p>
-                    di antara dua sujud, dengan tumaninah (Allahu akbar)
-                </p>
-                <p>
-                    Robighfirlii, warhamnii, wajburnii, warfanii, warzuqnii, wahdinii, waaafinii, wafu annii
-                </p>
-                <p>
-                    Ya Allah, Ampunilah aku, Belas kasihanilah aku, Cukupkanlah segala kekuranganku, Angkatlah
-                    derajatku, Berilah rezeki kepadaku, Berilah petunjuk kepadaku, Berilah kesehatan kepadaku, dan
-                    berilah
-                    ampunan kepadaku.
-                </p>
-                <h3>Sujud kedua </h3>
-
-
-                <p>
-                    dengan tuma'ninah (Allahu akbar)
-                </p>
-                <h3>Berdiri lagi untuk menunaikan rakaat kedua dan selanjutnya</h3>
-
-
-                <h4>Membaca surat Al-Fatihah</h4>
-
-
-                <h4>Membaca Surat Pendek yang dihafal</h4>
-
-
-                <h4>Ruku dengan tuma'ninah (Allahu akbar)</h4>
-
-
-                <h4>Sujud pertama (rakaat kedua)</h4>
-
-
-                <h3>Tahiyat Pertama</h3>
-
-
-                <p>
-                    Bacaan tahiyat pertama :
-                </p>
-                <p>
-                    Attahiyyatul mubarakaatus salawatut tayyibatu lillah. Assalamu alaika ayyuhan nabiyyu warahmatullahi
-                    wabarakatuh. Assalamu alaina wa ala ibadillahis salihin. Asyhadu alla ilaha illallah. Wa asyhadu
-                    anna
-                    muhammadar rasulullah. Allahumma salli ala sayyidina muhammad"
-                </p>
-                <p>
-                    Artinya :
-                </p>
-                <p>
-                    Segala kehortmatan, keberkahan, rahmat dan kebaikan adalah milik Allah. semoga keselamatan, rahmat
-                    dan
-                    berkah-Nya tetap tercurahkan atas-Mu, wahai Nabi. Semoga keselamatan (tetap terlimpahkan) atas kami
-                    dan
-                    hamba-hamba Allah yang saleh. Aku bersaksi bahwa tidak ada Tuhan selain Allah, dan aku bersaksi
-                    bahwa
-                    Muhammad adalah utusan Allah. Limpahkan rahmat kepada penghulu kami Nabi Muhammad.
-                </p>
-                <p>
-                    Kecuali pada salat Shubuh, pada tahap ini berarti membaca bacaan tahiyat akhir.
-                </p>
-                <h3>Berdiri (Allahu akbar) untuk melaksanakan rakaat ketiga.</h3>
-
-
-                <h3>Lanjutkan langkah yang sama hingga rakaat keempat</h3>
-
-
-                <h3>Tasyahud Akhir</h3>
-
-
-                <p>
-                    Posisi duduk yang disebut dengan duduk tawaruk, pantat langsung menempel di lantai atau tanah dan
-                    kaki
-                    kiri dimasukkan ke bawah kaki kanan. Jari-jari kaki kanan menghadap kiblat tetap menekan ke tanah.
-                    Badan
-                    sedikit condong ke kiri, kepala miring ke pundak kanan.
-                </p>
-                <p>
-                    Bacaannya, sama dengan tasyahud awal kemudian ditambah dengan sholawat Nabi, yakni :
-                </p>
-                <p>
-                    Kama sallaita ala sayyidina ibrahim wa ala ali sayyidina ibrahim. Wa barik ala sayyidina Muhammad wa
-                    ala
-                    ali sayyidina Muhammad Kama barakta ala sayyidina ibrahim wa ala ali sayyidina ibrahim Fil alamina
-                    innaka hamidum majid
-                </p>
-                <p>
-                    Artinya :
-                </p>
-                <p>
-                    Sebagaimana telah Engkau limpahkan rahmat kepada penghulu kami Nabi Ibrahim dan Keluarganya dan
-                    limpahkanlah berilah kepada penghulu kami Nabi Muhammad dan keluarganya sebagaimana Engkau limpahkan
-                    berkah kepada penghulu kami Nabi Ibrahim dan keluarganya. sesungguhnya di alam semesta ini Engkau
-                    maha
-                    terpuji lagi maha mulia, wahai Zat yang menggerakkan hati tetapkanlah hatiku pada agama-Mu.
-                </p>
-                <h3>Salam</h3>
-
-
-                <p>
-                    Menengok ke kanan, salam lalu menengok ke kiri mengucap salam lagi.
-                </p>
-                <p>
-                    Assalamu'allaikum warahmatullahi wabarakatuh
-                </p>
                 <p>
                     Itulah tata cara salat wajib yang benar sesuai syariat, semoga kita dapat menunaikannya dengan
                     tertib
