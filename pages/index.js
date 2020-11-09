@@ -226,32 +226,32 @@ export default function Home() {
                         </ol>
                     </div>
 
-                    <div>
+                    <div className="space-y-2">
+                        <h3 className="text-black text-xl leading-tight">Membaca Surat Al-Fatihah</h3>
 
+                        <p>
+                            Bismillahir rahmaa nirrahiim. Alhamdu lilla hi rabbil 'alamin. Ar rahmaanirrahiim. Maaliki
+                            yaumiddiin.
+                            Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shirraatal musthaqiim. Shiraathal ladziina an'amta
+                            'alaihim ghairil maghduubi 'alaihim waladh-dhaalliin.
+                        </p>
+
+                        <p>
+                            Dengan nama Allah yang maha pengasih, maha penyayang. Segala puji bagi Allah, tuhan
+                            seluruh
+                            alam, yang maha pengasih, maha penyayang, pemilik hari pembalasan. Hanya kepada engkau lah kami
+                            menyembah dan hanya kepada engkau lah kami mohon pertolongan. Tunjukilah kami jalan yang lurus
+                            (yaitu)
+                            jalan orang-orang yang telah engkau beri nikmat kepadanya, bukan (jalan) mereka yang dimurkai, dan
+                            bukan
+                            (pula jalan) mereka yang sesat.
+                        </p>
                     </div>
 
 
                 </div>
 
-                <h3>Membaca Surat Al-Fatihah</h3>
 
-
-                <p>
-                    Bismillahir rahmaa nirrahiim. Alhamdu lilla hi rabbil 'alamin. Ar rahmaanirrahiim. Maaliki
-                    yaumiddiin.
-                    Iyyaaka na'budu wa iyyaaka nasta'iin. Ihdinash shirraatal musthaqiim. Shiraathal ladziina an'amta
-                    'alaihim ghairil maghduubi 'alaihim waladh-dhaalliin.
-                </p>
-                <p>
-                    Artinya : "Dengan nama Allah yang maha pengasih, maha penyayang. Segala puji bagi Allah, tuhan
-                    seluruh
-                    alam, yang maha pengasih, maha penyayang, pemilik hari pembalasan. Hanya kepada engkau lah kami
-                    menyembah dan hanya kepada engkau lah kami mohon pertolongan. Tunjukilah kami jalan yang lurus
-                    (yaitu)
-                    jalan orang-orang yang telah engkau beri nikmat kepadanya, bukan (jalan) mereka yang dimurkai, dan
-                    bukan
-                    (pula jalan) mereka yang sesat.
-                </p>
                 <h3>Membaca Surat Pendek yang dihafal</h3>
 
 
