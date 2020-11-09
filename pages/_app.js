@@ -12,8 +12,8 @@ export default function MyApp({ Component, pageProps }) {
           content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"
         />
         <meta name="description" content="Description" />
-        <meta name="keywords" content="Keywords" />
-        <title>Next.js PWA Example</title>
+        <meta name="keywords" content="Salah, Moslem, Islam, Praying" />
+        <title>Salah</title>
 
         <link rel="manifest" href="/manifest.json" />
         <link
