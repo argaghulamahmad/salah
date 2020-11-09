@@ -1,54 +1,65 @@
-import styles from '../styles/Home.module.css'
+import React from "react";
 
 export default function Home() {
     return (
-        <div>
-            <h1>Salah</h1>
-            <p>
-                Salat sebagai ibadah utama setiap umat Islam dalam menggapai ridho Allah SWT. Secara bahasa, salat
-                berarti berdoa atau dalam arti mengagungkan.
-            </p>
-            <p>
-                Salat wajib adalah ibadah yang bila dikerjakan mendapat pahala, dan bila ditinggalkan mendapat dosa.
-                Salat wajib yang memiliki 5 waktu setiap harinya dari pagi hingga malam, yakni Shubuh, Dzuhur, Ashar,
-                Maghrib, dan Isya’. Sesuai dengan hadist yang diriwayatkan oleh Ibnu Abbas radhiyallahu anhu,
-            </p>
-            <p>
-                "Bahwasannya Nabi saw. telah mengutus Muadz r.a. ke Yaman, lalu beliau bersabda kepadanya, 'Ajaklah
-                mereka (penduduk Yaman) untuk bersaksi bahwa tidak ada Tuhan selain Allah dan sungguh aku adalah utusan
-                Allah, jika mereka mentaatinya, maka beritahu kan mereka bahawa Allah telah mewajibkan kepada mereka
-                lima salat dalam sehari semalam',” HR. Al-Bukhari.
-            </p>
-            <p>
-                Berikut adalah tata cara salat wajib yang benar sesuai syariat:
-            </p>
-            <h2>Waktu Mengerjakan Salat Wajib dan Rakaatnya</h2>
+        <div className="m-4 space-y-4">
+            <h1 className="text-4xl">Salat</h1>
+            <div className="space-y-2">
+                <h2 className="text-black text-2xl">Apa itu Salat</h2>
+                <div className="space-y-4">
+                    <p>
+                        Salat sebagai ibadah utama setiap umat Islam dalam menggapai ridho Allah SWT. Secara bahasa,
+                        salat
+                        berarti berdoa atau dalam arti mengagungkan.
+                    </p>
+                    <p>
+                        Salat wajib adalah ibadah yang bila dikerjakan mendapat pahala, dan bila ditinggalkan mendapat
+                        dosa.
+                        Salat wajib yang memiliki 5 waktu setiap harinya dari pagi hingga malam, yakni Shubuh, Dzuhur,
+                        Ashar,
+                        Maghrib, dan Isya’. Sesuai dengan hadist yang diriwayatkan oleh Ibnu Abbas radhiyallahu anhu,
+                    </p>
+                    <p>
+                        "Bahwasannya Nabi saw. telah mengutus Muadz r.a. ke Yaman, lalu beliau bersabda kepadanya,
+                        'Ajaklah
+                        mereka (penduduk Yaman) untuk bersaksi bahwa tidak ada Tuhan selain Allah dan sungguh aku adalah
+                        utusan
+                        Allah, jika mereka mentaatinya, maka beritahu kan mereka bahawa Allah telah mewajibkan kepada
+                        mereka
+                        lima salat dalam sehari semalam',” HR. Al-Bukhari.
+                    </p>
+                </div>
+            </div>
 
+            <div className="space-y-4">
+                <h2 className="text-black text-2xl leading-tight">Waktu Mengerjakan Salat Wajib dan Rakaatnya</h2>
 
-            <ol>
+                <ol className="list-disc mx-6">
+                    <li>Salat Shubuh, dimulai sejak muncul fajar shaddiq atau cahaya putih, melintang di ufuk timur
+                        sampai
+                        ketika matahari terbit. Berjumlah 2 rakaat.
+                    </li>
 
-                <li>Salat Shubuh, dimulai sejak muncul fajar shaddiq atau cahaya putih, melintang di ufuk timur sampai
-                    ketika matahari terbit. Berjumlah 2 rakaat.
-                </li>
+                    <li>Salat Dzuhur, dimulai setelah condong matahari dari pertengahan langit. Berakhir waktu bila
+                        bayang-bayang benda/sesuatu telah sama panjangnya dengan sesuatu itu. Berjumlah 4 rakaat, 2
+                        tahiyat.
+                    </li>
 
-                <li>Salat Dzuhur, dimulai setelah condong matahari dari pertengahan langit. Berakhir waktu bila
-                    bayang-bayang benda/sesuatu telah sama panjangnya dengan sesuatu itu. Berjumlah 4 rakaat, 2
-                    tahiyat.
-                </li>
+                    <li>Salat Ashar, waktunya dimulai dari habisnya waktu Dzuhur sampai terbenamnya matahari. Kalau
+                        dalam Mazhab Hanafi jika panjang bayangan dua kali panjang benda. 4 rakaat, 2 tahiyat.
+                    </li>
 
-                <li>Salat Ashar, waktunya dimulai dari habisnya waktu Dzuhur sampai terbenamnya matahari. Kalau
-                    dalam Mazhab Hanafi jika panjang bayangan dua kali panjang benda. 4 rakaat, 2 tahiyat.
-                </li>
+                    <li>Salat Maghrib, dimulai sejak matahari terbenam sampai hilangnya syafaq (awan senja
+                        merah). Berjumlah 3 rakaat, 2 tahiyat, 1 salam.
+                    </li>
 
-                <li>Salat Maghrib, dimulai sejak matahari terbenam sampai hilangnya syafaq (awan senja
-                    merah). Berjumlah 3 rakaat, 2 tahiyat, 1 salam.
-                </li>
+                    <li>Salat Isya, waktunya sejak terbenam waktu syafaq (awan senja) hingga terbit fajar
+                        shaddiq. Berjumlah 4 rakaat, 2 tahiyat.
+                    </li>
 
-                <li>Salat Isya, waktunya sejak terbenam waktu syafaq (awan senja) hingga terbit fajar
-                    shaddiq. Berjumlah 4 rakaat, 2 tahiyat.
-                </li>
+                </ol>
+            </div>
 
-            </ol>
             <h2>Tata Cara Salat Wajib</h2>
 
 
