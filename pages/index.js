@@ -138,64 +138,101 @@ export default function Home() {
                     </ol>
                 </div>
 
-                <h3>Takbiratul Ihram</h3>
+                <div className="space-y-2">
+                    <h3 className="text-black text-xl leading-tight">Takbiratul Ihram</h3>
+                    <p>
+                        Mengangkat kedua tangan sejajar dengan daun telinga untuk laki-laki, dan perempuan boleh sejajar
+                        dengan
+                        dada, sambil membaca Allahu akbar. Artinya Allah Maha Besar. Niat bisa dibaca sebelumnya, atau
+                        berbarengan dengan takbir. Keduanya sahih, kembali pada keyakinan Anda.
+                    </p>
+                </div>
+
+                <div className="space-y-2">
+                    <h3 className="text-black text-xl leading-tight">Membaca Iftitah</h3>
+                    <p>
+                        Mengangkat kedua tangan sejajar dengan daun telinga untuk laki-laki, dan perempuan boleh sejajar
+                        dengan
+                        dada, sambil membaca Allahu akbar. Artinya Allah Maha Besar. Niat bisa dibaca sebelumnya, atau
+                        berbarengan dengan takbir. Keduanya sahih, kembali pada keyakinan Anda.
+                    </p>
+
+                    <div className="space-y-1">
+                        <p>
+                            Ada 2 doa iftitah, hafal dan dilafalkan salah satunya dalam melaksanakan shalat.
+                        </p>
+
+                        <ol className="list-disc mx-6 space-y-1">
+                            <li className="space-y-1">
+                                <h4>Pertama</h4>
+
+                                <p>
+                                    Allahu akbar Kabiiraw walhamdu lillaahi katsiira wa subhaanallaahi bukrataw
+                                    wa'ashiila.
+                                    Wajjahtu
+                                    wajhiya
+                                    lilladzii fataras samawaati wal ardha haniifam muslimaw wamaa anaa minal musyrikiin.
+                                    Inna
+                                    shalaatii
+                                    wa
+                                    nusukii wa mahyaaya wa mamaatii lillaahi rabbil aalamiin. Laa syariikalahu wa
+                                    bidzaalika
+                                    umirtu
+                                    wa
+                                    anaa
+                                    minal muslimiin.
+                                </p>
+
+                                <p>
+                                    Allah maha besar, maha sempurna kebesaran-Nya. Segala puji bagi Allah, pujian yang
+                                    sebanyak-banyaknya.
+                                    Dan maha suci Allah sepanjang pagi dan petang. Kuhadapkan wajahku kepada zat yang
+                                    telah
+                                    menciptakan
+                                    langit dan bumi dengan penuh ketulusan dan kepasrahan dan aku bukanlah termasuk
+                                    orang-orang
+                                    yang
+                                    musyrik. Sesungguhnya sholatku, ibadahku, hidupku dan matiku semuanya untuk Allah,
+                                    penguasa
+                                    alam
+                                    semesta. Tidak ada sekutu bagi-Nya dan dengan demikianlah aku diperintahkan dan aku
+                                    termasuk
+                                    orang-orang
+                                    yang muslim."
+                                </p>
+                            </li>
+
+                            <li className="space-y-1">
+                                <h4>Kedua</h4>
+
+                                <p>
+                                    Allahumma baaid bainii wabaina khathaayaaya kamaa baaadta bainal masyriqi wa maghribi, allahumma
+                                    naqinii
+                                    min khathaayaaya kamaa yunaqats tsaubul abyadhu minad danas. Allahummaghsilnii min khathaayaaya
+                                    bil
+                                    maai
+                                    wats tsalji.
+                                </p>
+                                <p>
+                                    Ya Allah, Jauhkan antara aku dan kesalahan kesalahanku, sebagaimana engkau menjauhkan
+                                    antara
+                                    timur dan barat. Ya Allah, bersihkan lah aku dan kesalahan kesalahanku, sebagaimana baju putih
+                                    dibersihkan dari kotoran. Ya Allah, cuci lah aku dari kesalahan kesalahanku dengan salju, air
+                                    dan
+                                    air
+                                    es.
+                                </p>
+                            </li>
+                        </ol>
+                    </div>
+
+                    <div>
+
+                    </div>
 
 
-                <p>
-                    Mengangkat kedua tangan sejajar dengan daun telinga untuk laki-laki, dan perempuan boleh sejajar
-                    dengan
-                    dada, sambil membaca Allahu akbar. Artinya Allah Maha Besar. Niat bisa dibaca sebelumnya, atau
-                    berbarengan dengan takbir. Keduanya sahih, kembali pada keyakinan Anda.
-                </p>
-                <h3>Membaca Iftitah</h3>
+                </div>
 
-
-                <p>
-                    Ada 2 doa iftitah, hafal dan dilafalkan salah satunya dalam melaksanakan shalat.
-                </p>
-                <h4>Pertama</h4>
-
-
-                <p>
-                    Allahu akbar Kabiiraw walhamdu lillaahi katsiira wa subhaanallaahi bukrataw wa'ashiila. Wajjahtu
-                    wajhiya
-                    lilladzii fataras samawaati wal ardha haniifam muslimaw wamaa anaa minal musyrikiin. Inna shalaatii
-                    wa
-                    nusukii wa mahyaaya wa mamaatii lillaahi rabbil aalamiin. Laa syariikalahu wa bidzaalika umirtu wa
-                    anaa
-                    minal muslimiin.
-                </p>
-                <p>
-                    Artinya :
-                </p>
-                <p>
-                    Allah maha besar, maha sempurna kebesaran-Nya. Segala puji bagi Allah, pujian yang
-                    sebanyak-banyaknya.
-                    Dan maha suci Allah sepanjang pagi dan petang. Kuhadapkan wajahku kepada zat yang telah menciptakan
-                    langit dan bumi dengan penuh ketulusan dan kepasrahan dan aku bukanlah termasuk orang-orang yang
-                    musyrik. Sesungguhnya sholatku, ibadahku, hidupku dan matiku semuanya untuk Allah, penguasa alam
-                    semesta. Tidak ada sekutu bagi-Nya dan dengan demikianlah aku diperintahkan dan aku termasuk
-                    orang-orang
-                    yang muslim."
-                </p>
-                <h4>Kedua</h4>
-
-
-                <p>
-                    Allahumma baaid bainii wabaina khathaayaaya kamaa baaadta bainal masyriqi wa maghribi, allahumma
-                    naqinii
-                    min khathaayaaya kamaa yunaqats tsaubul abyadhu minad danas. Allahummaghsilnii min khathaayaaya bil
-                    maai
-                    wats tsalji.
-                </p>
-                <p>
-                    Artinya : Ya Allah, Jauhkan antara aku dan kesalahan kesalahanku, sebagaimana engkau menjauhkan
-                    antara
-                    timur dan barat. Ya Allah, bersihkan lah aku dan kesalahan kesalahanku, sebagaimana baju putih
-                    dibersihkan dari kotoran. Ya Allah, cuci lah aku dari kesalahan kesalahanku dengan salju, air dan
-                    air
-                    es.
-                </p>
                 <h3>Membaca Surat Al-Fatihah</h3>
 
 
