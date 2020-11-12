@@ -377,35 +377,8 @@ _Assalamu alaykum wa rahmatu Allah_
 
 Upon saying the tasleem the prayer will have come to an end.
 
-
-![](/assets/blog/salah/Send-email-newsletters.png)
-
-If you find benefit in reading this guide, please consider subscribing to our
-email newsletter so we can send you more beneficial content.
-
 #### The Next Step
 
 Now you know how to perform a rakah – one unit of prayer. The next step is to
 combine 2, 3, or 4 rakah together to complete one salah. We’ll cover that in
 the next chapter.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-103 Shares
-
-Type and Press “enter” to Search
-
-103 Shares
-
