@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import React from "react";
 
 export default function Meta() {
     return (
@@ -27,7 +28,7 @@ export default function Meta() {
                 sizes="32x32"
             />
             <link rel="apple-touch-icon" href="/icons/apple-icon.png"/>
-            <meta name="theme-color" content="#317EFB"/>
+            <meta name="theme-color" content="#FFFFFF"/>
 
             <link rel="shortcut icon" href="/icons/favicon.ico"/>
             <meta name="msapplication-TileColor" content="#000000"/>

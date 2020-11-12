@@ -11,10 +11,6 @@ ogImage:
   url: '/assets/blog/salah/pray-salah.png'
 ---
 
-## Chapter 4
-
-### Getting Started
-
 Now that our wudu has been properly made we can proceed and begin to pray
 salah. Here are the steps of the salah:
 
@@ -49,23 +45,6 @@ Let us break down how each rakah of the salah is performed, step by step.
 
 
 ### Learning How to Pray: One Rakah at a Time
-
-
-
-
-
-#### Table of Contents
-
-If you would like to jump ahead to any of the 13 steps you can click on the
-options below:
-
-
-
-
-
-
-
-
 
 #### Step 1 – Make your intention to pray  
 
@@ -107,8 +86,7 @@ thoughts and actions.
 
 
 
-#### Step 3 – Lower your hands and place them over your naval. Your right hand
-should be placed over your left hand
+#### Step 3 – Lower your hands and place them over your naval. Your right hand should be placed over your left hand
 
 
 
@@ -377,35 +355,8 @@ _Assalamu alaykum wa rahmatu Allah_
 
 Upon saying the tasleem the prayer will have come to an end.
 
-
-![](/assets/blog/salah/Send-email-newsletters.png)
-
-If you find benefit in reading this guide, please consider subscribing to our
-email newsletter so we can send you more beneficial content.
-
 #### The Next Step
 
 Now you know how to perform a rakah – one unit of prayer. The next step is to
 combine 2, 3, or 4 rakah together to complete one salah. We’ll cover that in
 the next chapter.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-103 Shares
-
-Type and Press “enter” to Search
-
-103 Shares
-

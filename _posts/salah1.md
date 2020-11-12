@@ -191,5 +191,5 @@ strong bonds of unity among the Muslims, especially when the prayer is
 performed as a congregation at a masjid. It also serves as an excellent relief
 for stress and worry.
 
-> Most surely, in the remembrance of Allah do hearts find solace.Qur'an -
-> Chapter 13, Verse 28
+> Most surely, in the remembrance of Allah do hearts find solace.
+> Qur'an - Chapter 13, Verse 28
