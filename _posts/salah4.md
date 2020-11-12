@@ -2,13 +2,13 @@
 title: 'Chapter 4 - How to Pray Salah, Step by Step'
 excerpt: 'Now that our wudu has been properly made we can proceed and begin to pray
           salah.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
+coverImage: '/assets/blog/salah/pray-salah.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Tim Neutkens
   picture: '/assets/blog/authors/tim.jpeg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: '/assets/blog/salah/pray-salah.png'
 ---
 
 ## Chapter 4
@@ -18,7 +18,7 @@ ogImage:
 ## How to Pray Salah, Step by Step
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/pray-salah.png)
+![](/assets/blog/salah/pray-salah.png)
 
 ### Getting Started
 
@@ -97,9 +97,9 @@ point forward you should focus wholeheartedly on the prayer and do your best
 to ignore all distractions.
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/say-allahu-akbar-to-start-salah.jpg)
+![](/assets/blog/salah/say-allahu-akbar-to-start-salah.jpg)
 
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/say-allahu-akbar-to-start-salah-2.jpg)
+![](/assets/blog/salah/say-allahu-akbar-to-start-salah-2.jpg)
 
 **Fun Fact:** What do you think Allahu Akbar means? In most Arabic to English
 translations it is defined as “Allah is the Greatest.” However, the real
@@ -122,9 +122,9 @@ should be placed over your left hand
 
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/standing-for-salah-looking-at-ground.jpg)
+![](/assets/blog/salah/standing-for-salah-looking-at-ground.jpg)
 
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/standing-in-salah-recite-surah-fatihah.jpg)
+![](/assets/blog/salah/standing-in-salah-recite-surah-fatihah.jpg)
 
 
 
@@ -206,9 +206,9 @@ you will be prostrating.
 
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/make-ruku-prostration.jpg)
+![](/assets/blog/salah/make-ruku-prostration.jpg)
 
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/how-to-make-ruku-bowing-down.jpg)
+![](/assets/blog/salah/how-to-make-ruku-bowing-down.jpg)
 
 When you are in this position you will say this sentence three times:
 
@@ -255,9 +255,9 @@ toes are touching the ground.
 
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/making-sujud-in-salah-2.jpg)
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/making-sujud-in-salah.jpg)
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/make-sujud-in-salah.jpg)
+![](/assets/blog/salah/making-sujud-in-salah-2.jpg)
+![](/assets/blog/salah/making-sujud-in-salah.jpg)
+![](/assets/blog/salah/make-sujud-in-salah.jpg)
 
 
 
@@ -297,8 +297,8 @@ O my Lord, forgive me.
 
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/sitting-between-sujud.jpg)
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/sitting-in-salah-and-tashahud.jpg)
+![](/assets/blog/salah/sitting-between-sujud.jpg)
+![](/assets/blog/salah/sitting-in-salah-and-tashahud.jpg)
 
 
 
@@ -311,7 +311,7 @@ O my Lord, forgive me.
 You will repeat step 9 again and perform a second sujud and say _subhanna
 rabbeeyal ‘alaa_ three times again.
 
-![Placeholder](https://www.mymasjid.ca/wp-content/uploads/2017/03/making-sujud-in-salah.jpg)
+![Placeholder](/assets/blog/salah/making-sujud-in-salah.jpg)
 
 #### Step 12 – Arise from the sujud to return to the standing position and say
 Allahu Akbar  
@@ -348,8 +348,8 @@ I bear witness that none has the right to be worshipped except Allah, and I
 bear witness that Muhammad is His slave and Messenger
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/saying-tashahud-and-salah-an-nabi-prophet.jpg)
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/sitting-position-in-salah.jpg)
+![](/assets/blog/salah/saying-tashahud-and-salah-an-nabi-prophet.jpg)
+![](/assets/blog/salah/sitting-position-in-salah.jpg)
 
 If this is the ** _final rakah_ in the prayer** then you will add this part to
 the tashahud:
@@ -381,13 +381,13 @@ And then to look to the left and say it again:
 _Assalamu alaykum wa rahmatu Allah_
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/end-the-salah-with-tasleem-.jpg)
-![](https://www.mymasjid.ca/wp-content/uploads/2017/03/end-the-salah-with-tasleem-2.jpg)
+![](/assets/blog/salah/end-the-salah-with-tasleem-.jpg)
+![](/assets/blog/salah/end-the-salah-with-tasleem-2.jpg)
 
 Upon saying the tasleem the prayer will have come to an end.
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2020/04/Send-email-newsletters.png)
+![](/assets/blog/salah/Send-email-newsletters.png)
 
 If you find benefit in reading this guide, please consider subscribing to our
 email newsletter so we can send you more beneficial content.

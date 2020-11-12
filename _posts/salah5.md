@@ -3,13 +3,13 @@ title: 'Chapter 5 - How to Pray the 5 Daily Salah'
 excerpt: 'We are now going to combine 2, 3, or 4 rakah together to perform the 5 daily
           salah which are Fajr (dawn), Dhur (noon), Asr (afternoon), Maghrib (evening),
           and Isha (nightfall).'
-coverImage: '/assets/blog/hello-world/cover.jpg'
+coverImage: '/assets/blog/salah/5-daily-salah.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Tim Neutkens
   picture: '/assets/blog/authors/tim.jpeg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: '/assets/blog/salah/5-daily-salah.png'
 ---
 
 ## Chapter 5
@@ -18,9 +18,7 @@ ogImage:
 ## How to Pray the 5 Daily Salah
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/5-daily-salah.png)
-
-![](https://www.mymasjid.ca/wp-content/uploads/2015/01/img-1.png)
+![](/assets/blog/salah/5-daily-salah.png)
 
 ### Putting it All Together  
 

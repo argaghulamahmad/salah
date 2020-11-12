@@ -4,13 +4,13 @@ excerpt: 'The salah is a special form of worship that is the second most importa
           pillar of Islam after the shahada (testimony of faith). It is an obligatory
           form of prayer performed five times a day that was revealed in the Holy Qur’an
           and taught to us by Prophet Muhammad (peace be upon him).'
-coverImage: '/assets/blog/hello-world/cover.jpg'
+coverImage: '/assets/blog/salah/why-do-we-pray.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Tim Neutkens
   picture: '/assets/blog/authors/tim.jpeg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: '/assets/blog/salah/why-do-we-pray.png'
 ---
 
 ## Chapter 1
@@ -19,7 +19,7 @@ ogImage:
 ## What is Salah and Why Do We Pray?
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/why-do-we-pray.png)
+![](/assets/blog/salah/why-do-we-pray.png)
 
 ### What is Salah?
 
@@ -53,7 +53,7 @@ Allah.
 
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/why-do-muslims-pray.png)
+![](/assets/blog/salah/why-do-muslims-pray.png)
 
 
 ### Why do Muslims Pray Salah?
@@ -117,7 +117,7 @@ The last part of the Isra and Mi’raj story begins at the moment the angel
 Gabriel (Jibreel) brings Muhammad (peace be upon him) from Makkah to
 Jerusalem, and then to the gates of the first level of heaven:
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/Makkah_to_Jerusalem_Isra_Miraj-1.png)
+![](/assets/blog/salah/Makkah_to_Jerusalem_Isra_Miraj-1.png)
 
 _When I reached the nearest heaven. Gabriel said to the heaven gatekeeper,
 ‘Open the gate.’ The gatekeeper asked, ‘Who is it?’ He said, ‘Gabriel.’ The

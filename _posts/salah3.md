@@ -2,13 +2,13 @@
 title: 'Chapter 3 - Checklist for Getting Ready to Pray Salah'
 excerpt: 'Before you stand for prayer there is a short checklist of 5 things you need to
           have.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
+coverImage: '/assets/blog/salah/checklist-for-salah.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Tim Neutkens
   picture: '/assets/blog/authors/tim.jpeg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: '/assets/blog/salah/checklist-for-salah.png'
 ---
 
 ## Chapter 3
@@ -17,7 +17,7 @@ ogImage:
 ## Checklist for Getting Ready to Pray Salah
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/checklist-for-salah.png)
+![](/assets/blog/salah/checklist-for-salah.png)
 
 ### Before You Begin to Pray
 
@@ -25,7 +25,7 @@ ogImage:
 Before you stand for prayer there is a short checklist of 5 things you need to
 have. Here they are:
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/Prayer-checklist-for-salah-1.png)
+![](/assets/blog/salah/Prayer-checklist-for-salah-1.png)
 
 
 
@@ -56,7 +56,7 @@ Fortunately we have prayer timetables and smartphone apps that can tell us
 when it is time to pray. Use these tools to your advantage so you never miss a
 prayer.
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/wrist-watch-183143_640.jpg)
+![](/assets/blog/salah/wrist-watch-183143_640.jpg)
 
 
 
@@ -82,7 +82,7 @@ You can also pray on many different surfaces such as grass, sand, concrete,
 etc.
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/prayer-mat-for-salah.jpg)
+![](/assets/blog/salah/prayer-mat-for-salah.jpg)
 
 
 
@@ -93,7 +93,7 @@ The Qibla is the direction the Kaaba is from your current location. Allah
 commanded us to face the Holy Kaaba in Makkah whenever we perform our prayers.
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/face-the-kabah-for-prayer.jpg)
+![](/assets/blog/salah/face-the-kabah-for-prayer.jpg)
 
 Once you have completed this checklist you are ready to start praying.
 

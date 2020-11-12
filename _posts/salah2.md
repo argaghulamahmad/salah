@@ -4,20 +4,20 @@ excerpt: 'Before we can perform salah we need to prepare ourselves mentally, phy
           and spiritually. A large portion of this preparation is what is known as wudu.
           It is a purification process that every Muslim must perform before their
           prayer can be performed.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
+coverImage: '/assets/blog/salah/make-wudu.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Tim Neutkens
   picture: '/assets/blog/authors/tim.jpeg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: '/assets/blog/salah/make-wudu.png'
 ---
 
 ## Chapter 2
 
 ## How to Make Wudu, Step by Step
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/make-wudu.png)
+![](/assets/blog/salah/make-wudu.png)
 
 ### What is Wudu?
 
@@ -61,7 +61,7 @@ actions with your left hand three times.
 
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hands.png)
+![](/assets/blog/salah/wudu-wash-hands.png)
 
 
 
@@ -73,7 +73,7 @@ thoroughly to clean your mouth properly.
 
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-rinse-mouth.png)
+![](/assets/blog/salah/wudu-rinse-mouth.png)
 
 
 
@@ -88,7 +88,7 @@ times. Try not to take in too much water or you may hurt yourself.
 
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-into-nose.png)
+![](/assets/blog/salah/wudu-into-nose.png)
 
 
 
@@ -103,7 +103,7 @@ as you wash your face.
 
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-face.png)
+![](/assets/blog/salah/wudu-wash-face.png)
 
 
 
@@ -116,7 +116,7 @@ your left arm and do it three times.
 
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-arms.png)
+![](/assets/blog/salah/wudu-wash-arms.png)
 
 
 
@@ -133,7 +133,7 @@ hair or long hair, the process is the same.
 
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-hair.png)
+![](/assets/blog/salah/wudu-wash-hair.png)
 
 
 
@@ -148,7 +148,7 @@ This is done only once.
 
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-clean-ears.png)
+![](/assets/blog/salah/wudu-clean-ears.png)
 
 
 
@@ -165,7 +165,7 @@ foot followed by three times with the left foot.
 
 
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wash-feet.png)
+![](/assets/blog/salah/wudu-wash-feet.png)
 
 
 
@@ -225,7 +225,7 @@ little differently:
   * Using your right hand you will wipe gently over the top of your right foot. This is done only once
   * Using your right hand again you will wipe gently over the top of your left foot
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/wudu-wipe-socks.png)
+![](/assets/blog/salah/wudu-wipe-socks.png)
 
 This is what Prophet Muhammad (peace be upon him) used to do when he made wudu
 with his socks on.

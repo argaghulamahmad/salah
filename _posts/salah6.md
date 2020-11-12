@@ -3,20 +3,20 @@ title: 'Chapter 6 - Conditions and Pillars of Salah'
 excerpt: 'These are
           the things that are necessary for the validation of the salah. It is not
           permissible for a Muslim to be ignorant of them.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
+coverImage: '/assets/blog/salah/conditions-and-pillars.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Tim Neutkens
   picture: '/assets/blog/authors/tim.jpeg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: '/assets/blog/salah/conditions-and-pillars.png'
 ---
 
 ## Chapter 6
 
 ## Conditions and Pillars of Salah
 
-![](https://www.mymasjid.ca/wp-content/uploads/2016/10/conditions-and-pillars.png)
+![](/assets/blog/salah/conditions-and-pillars.png)
 
 ### An Important Lesson
 
