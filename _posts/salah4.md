@@ -13,16 +13,7 @@ ogImage:
 
 ## Chapter 4
 
-
-
-## How to Pray Salah, Step by Step
-
-
-![](/assets/blog/salah/pray-salah.png)
-
 ### Getting Started
-
-
 
 Now that our wudu has been properly made we can proceed and begin to pray
 salah. Here are the steps of the salah:

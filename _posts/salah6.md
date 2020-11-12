@@ -12,12 +12,6 @@ ogImage:
   url: '/assets/blog/salah/conditions-and-pillars.png'
 ---
 
-## Chapter 6
-
-## Conditions and Pillars of Salah
-
-![](/assets/blog/salah/conditions-and-pillars.png)
-
 ### An Important Lesson
 
 We will discuss and list the conditions and pillars of the salah. These are

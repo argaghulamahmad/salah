@@ -11,14 +11,6 @@ ogImage:
   url: '/assets/blog/salah/checklist-for-salah.png'
 ---
 
-## Chapter 3
-
-
-## Checklist for Getting Ready to Pray Salah
-
-
-![](/assets/blog/salah/checklist-for-salah.png)
-
 ### Before You Begin to Pray
 
 

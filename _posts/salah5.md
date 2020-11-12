@@ -12,14 +12,6 @@ ogImage:
   url: '/assets/blog/salah/5-daily-salah.png'
 ---
 
-## Chapter 5
-
-
-## How to Pray the 5 Daily Salah
-
-
-![](/assets/blog/salah/5-daily-salah.png)
-
 ### Putting it All Together  
 
 

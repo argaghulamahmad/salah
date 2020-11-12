@@ -13,12 +13,6 @@ ogImage:
   url: '/assets/blog/salah/make-wudu.png'
 ---
 
-## Chapter 2
-
-## How to Make Wudu, Step by Step
-
-![](/assets/blog/salah/make-wudu.png)
-
 ### What is Wudu?
 
 Before we can perform salah we need to prepare ourselves mentally, physically,

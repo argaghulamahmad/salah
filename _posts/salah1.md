@@ -13,14 +13,6 @@ ogImage:
   url: '/assets/blog/salah/why-do-we-pray.png'
 ---
 
-## Chapter 1
-
-
-## What is Salah and Why Do We Pray?
-
-
-![](/assets/blog/salah/why-do-we-pray.png)
-
 ### What is Salah?
 
 
