@@ -7,8 +7,8 @@ excerpt: 'The salah is a special form of worship that is the second most importa
 coverImage: '/assets/blog/salah/why-do-we-pray.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Tim Neutkens
-  picture: '/assets/blog/authors/tim.jpeg'
+  name: Masjid Rahmah - Mosque of Mercy
+  picture: '/assets/blog/authors/masjid-ar-rahmad-mosque.png'
 ogImage:
   url: '/assets/blog/salah/why-do-we-pray.png'
 ---

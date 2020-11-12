@@ -5,8 +5,8 @@ excerpt: 'Now that our wudu has been properly made we can proceed and begin to p
 coverImage: '/assets/blog/salah/pray-salah.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Tim Neutkens
-  picture: '/assets/blog/authors/tim.jpeg'
+  name: Masjid Rahmah - Mosque of Mercy
+  picture: '/assets/blog/authors/masjid-ar-rahmad-mosque.png'
 ogImage:
   url: '/assets/blog/salah/pray-salah.png'
 ---

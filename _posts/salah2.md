@@ -7,8 +7,8 @@ excerpt: 'Before we can perform salah we need to prepare ourselves mentally, phy
 coverImage: '/assets/blog/salah/make-wudu.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Tim Neutkens
-  picture: '/assets/blog/authors/tim.jpeg'
+  name: Masjid Rahmah - Mosque of Mercy
+  picture: '/assets/blog/authors/masjid-ar-rahmad-mosque.png'
 ogImage:
   url: '/assets/blog/salah/make-wudu.png'
 ---
